@@ -1,0 +1,13 @@
+StudentID_StudentID,ExamID_ExamID,studentregistered,exampassed,ExamID_ID
+1,1,true,false,beaa103b-2030-43f7-a2f0-d03d8d0363eb
+1,2,false,false,2c091bd2-d067-46fe-a3f8-da5480bdc6fd
+1,3,true,false,ad7bbf25-1754-441a-9298-118862268c1c
+1,4,false,false,68d5b5e2-541b-46e3-a059-0a2459696f5d
+1,5,false,false,dab4884b-6df5-4e1b-978b-7de83f9b980f
+1,6,false,false,2394efa7-2d22-45b9-b109-ebda9ce1f0c5
+1,7,false,false,71a6d915-d1c7-4b1c-b94b-e89259e2d8fa
+1,8,false,true,02d06f94-c6af-40c1-87a7-ec8927352fe8
+1,9,false,true,299b62b9-3aeb-4ce0-96fb-9b723ac4a387
+1,10,false,false,e424226a-d608-4651-83c1-0697153e1134
+1,11,true,false,32a39a56-1fdd-4718-add7-3b35b5dda6b2
+1,12,false,true,cedf7f7c-f891-45de-bfa3-44287fdb92ea

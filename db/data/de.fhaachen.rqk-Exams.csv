@@ -1,0 +1,13 @@
+ExamID,modulnumber,examname,examiner,examdate,requirements,examrequirement,ID
+1,10000,ERP,Drumm,2020-01-20,false,0,beaa103b-2030-43f7-a2f0-d03d8d0363eb
+2,10001,Fortgeschrittenes Controlling,Bassen-Metz,2020-01-21,true,8,2c091bd2-d067-46fe-a3f8-da5480bdc6fd
+3,10002,Digitalisierung und Innovation,Ritz,2020-01-22,false,0,ad7bbf25-1754-441a-9298-118862268c1c
+4,10003,Fortgeschrittenes Marketing,Vieth,2020-01-23,true,7,68d5b5e2-541b-46e3-a059-0a2459696f5d
+5,10004,Interdisziplinäres Projekt,Eggert,2020-01-24,false,0,dab4884b-6df5-4e1b-978b-7de83f9b980f
+6,10005,Recht,Schwiering,2020-01-25,false,0,2394efa7-2d22-45b9-b109-ebda9ce1f0c5
+7,10006,Einführung in das Marketing,Vieth,2020-01-20,false,0,71a6d915-d1c7-4b1c-b94b-e89259e2d8fa
+8,10007,Einführung in das Controlling,Bassen-Metz,2020-01-21,false,0,02d06f94-c6af-40c1-87a7-ec8927352fe8
+9,10008,Höhere Mathematik,Hoever,2020-01-22,false,0,299b62b9-3aeb-4ce0-96fb-9b723ac4a387
+10,10009,Grundlagen der Programmiersprache,Classen,2020-01-23,false,0,e424226a-d608-4651-83c1-0697153e1134
+11,10010,Informationsmanagement,Eggert,2020-01-24,false,0,32a39a56-1fdd-4718-add7-3b35b5dda6b2
+12,10011,Kostenrechnung,Bassen-Metz,2020-01-25,false,0,cedf7f7c-f891-45de-bfa3-44287fdb92ea
