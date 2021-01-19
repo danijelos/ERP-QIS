@@ -1,6 +1,6 @@
 using ExamsService as service from '../../../srv/manage-exams';
 
-annotate rqk.Exams with @odata.draft.enabled;
+annotate qis.Exams with @odata.draft.enabled;
 
 annotate service.Exams with @(
 	UI: {

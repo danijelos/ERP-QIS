@@ -1,6 +1,6 @@
 using StudentExamService as service from '../../srv/manage-studentexam';
 
-annotate rqk.StudentExam with @odata.draft.enabled;
+annotate qis.StudentExam with @odata.draft.enabled;
 
 annotate service.StudentExam with @(
 	UI: {

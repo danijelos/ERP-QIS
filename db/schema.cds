@@ -1,6 +1,6 @@
 using { cuid, managed } from '@sap/cds/common';
 
-namespace de.fhaachen.rqk;
+namespace de.fhaachen.qis;
 entity Students : cuid, managed {
   key StudentID: Integer; 
   matriculationnumber : Integer;
